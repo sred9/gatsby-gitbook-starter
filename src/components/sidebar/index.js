@@ -57,18 +57,18 @@ const Sidebar = styled('aside')`
   position: sticky;
   top: 0;
   padding-right: 0;
-  background-color: #006400;
+  background-color: #fff;
   /* Safari 4-5, Chrome 1-9 */
-  background: linear-gradient(#372476, #3b173b);
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#372476), to(#3b173b));
+ /* background: linear-gradient(#372476, #3b173b);
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#372476), to(#3b173b));*/
   /* Safari 5.1, Chrome 10+ */
-  background: -webkit-linear-gradient(top, #372476, #3b173b);
+ /* background: -webkit-linear-gradient(top, #372476, #3b173b);*/
   /* Firefox 3.6+ */
-  background: -moz-linear-gradient(top, #372476, #3b173b);
+ /* background: -moz-linear-gradient(top, #372476, #3b173b);*/
   /* IE 10 */
-  background: -ms-linear-gradient(top, #372476, #3b173b);
+  /*background: -ms-linear-gradient(top, #372476, #3b173b);*/
   /* Opera 11.10+ */
-  background: -o-linear-gradient(top, #372476, #3b173b);
+  /*background: -o-linear-gradient(top, #372476, #3b173b);*/
 
   @media only screen and (max-width: 1023px) {
     width: 100%;
