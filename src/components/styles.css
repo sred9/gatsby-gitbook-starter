@@ -139,7 +139,7 @@ a:hover {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-  background-color: #542683;
+  transparent;
 }
 
 .headerWrapper {
@@ -429,7 +429,7 @@ blockquote {
 }
 
 .hideFrontLine  .active >a{
-  background-color: #542683;
+  transparent;
   color: #fff !important;
 }
 .firstLevel ul li .collapser svg path {
@@ -458,11 +458,11 @@ blockquote {
   padding-left: 15px;
 }
 .sideBarUL .item>a:hover {
-  background-color: #542683;
+  transparent;
   color: #fff !important;
 }
 .showFrontLine .item >a:hover {
-  background-color: #542683;
+  transparent;
 }
 .showFrontLine .active >a {
   color: #fff;
@@ -488,7 +488,7 @@ blockquote {
   border-color: rgb(230,236,241) !important;
   border-style: solid none solid solid;
   border-width: 1px 0px 1px 1px;
-  background-color: #542683;
+  transparent;
   color: #fff;
 }
 
